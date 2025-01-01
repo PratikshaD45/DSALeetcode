@@ -32,4 +32,12 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PratikshaD45/DSALeetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+## String
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/PratikshaD45/DSALeetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/PratikshaD45/DSALeetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
