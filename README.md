@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/PratikshaD45/DSALeetcode/tree/master/0136-single-number) |
 | [2531-create-components-with-same-value](https://github.com/PratikshaD45/DSALeetcode/tree/master/2531-create-components-with-same-value) |
 ## Math
 |  |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/PratikshaD45/DSALeetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/PratikshaD45/DSALeetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
