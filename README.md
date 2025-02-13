@@ -8,6 +8,7 @@
 | [0136-single-number](https://github.com/PratikshaD45/DSALeetcode/tree/master/0136-single-number) |
 | [0932-monotonic-array](https://github.com/PratikshaD45/DSALeetcode/tree/master/0932-monotonic-array) |
 | [2531-create-components-with-same-value](https://github.com/PratikshaD45/DSALeetcode/tree/master/2531-create-components-with-same-value) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/PratikshaD45/DSALeetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Math
 |  |
 | ------- |
@@ -46,4 +47,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PratikshaD45/DSALeetcode/tree/master/0136-single-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/PratikshaD45/DSALeetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+## Simulation
+|  |
+| ------- |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/PratikshaD45/DSALeetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 <!---LeetCode Topics End-->
