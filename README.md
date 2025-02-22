@@ -17,11 +17,13 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PratikshaD45/DSALeetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/PratikshaD45/DSALeetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2531-create-components-with-same-value](https://github.com/PratikshaD45/DSALeetcode/tree/master/2531-create-components-with-same-value) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PratikshaD45/DSALeetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/PratikshaD45/DSALeetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2531-create-components-with-same-value](https://github.com/PratikshaD45/DSALeetcode/tree/master/2531-create-components-with-same-value) |
 ## Enumeration
 |  |
@@ -35,9 +37,11 @@
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/PratikshaD45/DSALeetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/PratikshaD45/DSALeetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 ## String
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/PratikshaD45/DSALeetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/PratikshaD45/DSALeetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 ## Prefix Sum
 |  |
