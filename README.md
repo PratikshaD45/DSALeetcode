@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PratikshaD45/DSALeetcode/tree/master/0136-single-number) |
+| [0347-top-k-frequent-elements](https://github.com/PratikshaD45/DSALeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PratikshaD45/DSALeetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0932-monotonic-array](https://github.com/PratikshaD45/DSALeetcode/tree/master/0932-monotonic-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/PratikshaD45/DSALeetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -58,6 +59,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/PratikshaD45/DSALeetcode/tree/master/0347-top-k-frequent-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/PratikshaD45/DSALeetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Simulation
 |  |
@@ -66,13 +68,31 @@
 ## Hash Table
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/PratikshaD45/DSALeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PratikshaD45/DSALeetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/PratikshaD45/DSALeetcode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/PratikshaD45/DSALeetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/PratikshaD45/DSALeetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PratikshaD45/DSALeetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PratikshaD45/DSALeetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PratikshaD45/DSALeetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PratikshaD45/DSALeetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
